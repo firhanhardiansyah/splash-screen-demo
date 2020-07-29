@@ -1,7 +1,8 @@
 {
   "name": "splashScreenDemo",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
